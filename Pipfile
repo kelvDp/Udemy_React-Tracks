@@ -12,6 +12,7 @@ django = "*"
 graphene-django = "*"
 django-graphql-jwt = "*"
 django-cors-headers = "*"
+python-decouple = "*"
 
 [requires]
 python_version = "3.8"
